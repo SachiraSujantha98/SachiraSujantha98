@@ -8,8 +8,7 @@ Software Engineer with extensive experience collaborating with cross-functional 
 
 * 🌍  I'm based in Colombo, Sri Lanka
 * ✉️  You can contact me at [sachirasujanthamp@gmail.com](mailto:sachirasujanthamp@gmail.com)
-* 🧠  I'm learning the [Ballerina language](https://ballerina.io/)
-* 🤝  I'm open to collaborating on Projects
+* 🧠  I'm currently learning [Electron](https://www.electronjs.org/)
 * ⚡  MSc (reading)
 
 ### Skills
