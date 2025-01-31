@@ -9,7 +9,7 @@ Software Engineer with extensive experience collaborating with cross-functional 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sachirasujanthamp@gmail.com](mailto:sachirasujanthamp@gmail.com)
 * 🧠  I'm currently learning [Electron](https://www.electronjs.org/)
-* ⚡  MSc (reading)
+* ⚡  MSc in SEng.
 
 ### Skills
 
