@@ -7,7 +7,6 @@ Full-stack Software Engineer
 Software Engineer with extensive experience collaborating with cross-functional teams, including frontend, backend, QA, and UX teams, to deliver high-quality solutions for enterprise projects.
 
 * 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [sachirasujanthamp@gmail.com](mailto:sachirasujanthamp@gmail.com)
 * 🧠  I'm currently learning [Electron](https://www.electronjs.org/)
 * ⚡  MSc in SEng.
 
